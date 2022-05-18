@@ -82,6 +82,6 @@ If an output error is encountered, a negative value (-1) is returned.
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
-Report _printf Yonatan Negash (fevenbelay942@gmail.com), Yaekob Demisse (jamescog72@gmail.com)
+Report _printf Yonatan Negash (wyml@yahoo.com), Birhane Gebrial (Birhanegebrial1@gmail.com)
 .SH AUTHORS
-Feven Belay and Yaekob, ALX Cohort 6.
+Yonatan Negash and Birhane Gebrial, ALX Cohort 6.
